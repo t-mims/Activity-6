@@ -1,0 +1,24 @@
+body {
+    background-color: seagreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;
+    font-size: 16pt;
+    color:darkslategrey;
+}
+
+header {
+    text-align: center;
+    color: lavender;
+    font-family: fantasy;
+}
+.main {
+    text-align: center;
+}
+#wolf-image {
+    border: 5pt;
+    border-color:lightgreen;
+    border-style: inset;
+    padding: 0pt;
+    margin: 2cm;
+    align-items: center;
+}
